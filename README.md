@@ -13,6 +13,8 @@ jupyter notebook through Visual Studio Code
 
 ## Dataset Used
 
+   https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+
 
 Details of Datasets -
 
