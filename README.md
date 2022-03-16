@@ -14,6 +14,10 @@ jupyter notebook through Visual Studio Code
 ## Dataset Used
 
    https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+   
+   OR
+   
+   https://github.com/Rishavraj839/IMDB-MOVIE-RATING-PREDICTION-USING-PYTHON-/blob/main/IMDB_Movies.csv
 
 
 Details of Datasets -
