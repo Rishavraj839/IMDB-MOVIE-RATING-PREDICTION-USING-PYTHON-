@@ -114,8 +114,8 @@ movie_facebook_likes   :- Total no of facebook likes for the movie
 
 ## notebook
 
-  https://github.com/Rishavraj839/IMDB-MOVIE-RATING-PREDICTION-USING-PYTHON-/blob/main/IMDB_movie_prediction.ipynb
 
+https://nbviewer.org/github/Rishavraj839/IMDB-MOVIE-RATING-PREDICTION-USING-PYTHON-/blob/main/IMDB_movie_prediction.ipynb
 
 
 
